@@ -1,0 +1,18 @@
+{
+  "media": {
+    "root": "public/image",
+    "public": "public"
+  },
+  "content": {
+    "root": "content"
+  },
+  "code": {
+    "root": "component"
+  },
+  "themeConfig": [
+    "config/config.json",
+    "config/menu.json",
+    "config/style.json"
+  ],
+  "arrangement": []
+}
